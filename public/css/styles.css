@@ -1,0 +1,197 @@
+.navbar {
+  background-color: #671e75;
+}
+.navbar .navbar-brand {
+  color: #fbf8f8;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+  color: #671e75;
+}
+.navbar .navbar-text {
+  color: #fbf8f8;
+}
+.navbar .navbar-text a {
+  color: #671e75;
+}
+.navbar .navbar-text a:hover,
+.navbar .navbar-text a:focus {
+  color: #671e75;
+}
+
+
+
+.navbar .navbar-nav .nav-link {
+  color: #fbf8f8;
+  border-radius: .25rem;
+  margin: 0 0.25em;
+}
+.navbar .navbar-nav .nav-link:not(.disabled):hover,
+.navbar .navbar-nav .nav-link:not(.disabled):focus {
+  color: #671e75;
+}
+.navbar .navbar-nav .nav-item.active .nav-link,
+.navbar .navbar-nav .nav-item.active .nav-link:hover,
+.navbar .navbar-nav .nav-item.active .nav-link:focus,
+.navbar .navbar-nav .nav-item.show .nav-link,
+.navbar .navbar-nav .nav-item.show .nav-link:hover,
+.navbar .navbar-nav .nav-item.show .nav-link:focus {
+  color: #671e75;
+  background-color: #ffffff;
+}
+.navbar .navbar-toggle {
+  border-color: #ffffff;
+}
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+  background-color: #ffffff;
+}
+.navbar .navbar-toggle .navbar-toggler-icon {
+  color: #fbf8f8;
+}
+.navbar .navbar-collapse,
+.navbar .navbar-form {
+  border-color: #fbf8f8;
+}
+.navbar .navbar-link {
+  color: #fbf8f8;
+}
+.navbar .navbar-link:hover {
+  color: #671e75;
+}
+
+@media (max-width: 575px) {
+  .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #fbf8f8;
+  }
+  .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+  .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #671e75;
+  }
+  .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #671e75;
+    background-color: #ffffff;
+  }
+}
+
+@media (max-width: 767px) {
+  .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #fbf8f8;
+  }
+  .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+  .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #671e75;
+  }
+  .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #671e75;
+    background-color: #ffffff;
+  }
+}
+
+@media (max-width: 991px) {
+  .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #fbf8f8;
+  }
+  .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+  .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #671e75;
+  }
+  .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #671e75;
+    background-color: #ffffff;
+  }
+}
+
+@media (max-width: 1199px) {
+  .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #fbf8f8;
+  }
+  .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+  .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #671e75;
+  }
+  .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #671e75;
+    background-color: #ffffff;
+  }
+}
+
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
+  color: #fbf8f8;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+  color: #671e75;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
+  color: #671e75;
+  background-color: #ffffff;
+}
+
+
+
+@media (max-width: 576px) {
+  .xs {color:red;font-weight:bold;}
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width:768px) {
+  .sm {color:red;font-weight:bold;}
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) and (max-width:992px) {
+ .md {color:red;font-weight:bold;}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width:1200px) {
+ .lg {color:red;font-weight:bold;}
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .xl {color:red;font-weight:bold;}
+}
+
+.navbar button {
+    margin:auto;
+}
+
+.btn-primary.custom-btn {
+	background-color: #671e75;
+	border-color: #671e75;
+}
+
+
+
+.btn-primary{
+    background-color:#671e75;
+}
+
+.btn-secondary{
+    background-color:#671e75;
+}
+
+
+.custom-btn-class{
+     background-color:#671e75;
+}
+
+.featured  .btn-secondary {
+     font-weight: bold;
+     background-color: blue;
+}
+
+.featured  .btn-secondary {
+     font-weight: bold;
+     background-color: blue;
+}
+
+.card {
+         overflow: visible;
+     }
+
+.card-img-top{
+  width: 50%;
+}

@@ -3,7 +3,7 @@ Survey App on Laravel
 
 Instalation
 
-Step 1:git clone https://23966025@bitbucket.org/23966025/cis2167-project.git
+Step 1:git clone https://github.com/Benstarkie19/Questionnaire-App-Laravel-Year-2.git
 
 Step 2: Start up the server
 
